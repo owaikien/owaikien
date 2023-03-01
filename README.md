@@ -3,7 +3,9 @@
 3. Loves guitar (jazz, R&B and neo soul)
 4. Currently a final year Biomed Sci student at Univ of Manchester
 
-📫 Reach me: kienong2000@gmail.com
+📫 Reach me: kienong2000@gmail.com<br />
+<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4dd.png" width=20 height=20> [medium.com/@kienong2000](medium.com/@kienong2000)<br />
+🌐 [owaikien.github.io](owaikien.github.io)
 
 <!---
 owaikien/owaikien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
