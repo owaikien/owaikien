@@ -1,7 +1,8 @@
-1. Crypto + Artificial Intelligence
+1. Tech + AI + Data 
 2. Loves personal fitness (gym, basketball and badminton) 
 3. Loves guitar (jazz, R&B and neo soul)
 4. Currently a final year Biomed Sci student at Univ of Manchester
+
 📫 Reach me: kienong2000@gmail.com
 
 <!---
