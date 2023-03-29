@@ -1,7 +1,6 @@
-1. Tech + AI + Data 
-2. Loves personal fitness (gym, basketball and badminton) 
-3. Loves guitar (jazz, R&B and neo soul)
-4. Currently a final year Biomed Sci student at Univ of Manchester
+Bio + AI + Data
+Loves personal fitness 
+Loves jazz and R&B 
 
 📫 Reach me: kienong2000@gmail.com<br />
 ✍️ [medium.com/@kienong2000](medium.com/@kienong2000)<br />
