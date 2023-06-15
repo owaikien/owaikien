@@ -1,4 +1,4 @@
-Bio + AI + Data <br />
+From DNA to Data <br />
 Loves personal fitness <br /> 
 Loves jazz and R&B <br />
 
