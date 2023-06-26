@@ -4,7 +4,7 @@ Loves jazz and R&B <br />
 
 📫 Reach me: kienong2000@gmail.com<br />
 ✍️  [medium.com/@kienong2000](https://www.medium.com/@kienong2000) <br />
-🌐 [owaikien.github.io](https://www.owaikien.github.io)
+🌐 [owaikien.github.io](https://owaikien.github.io)
 
 <!---
 owaikien/owaikien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
