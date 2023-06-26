@@ -3,7 +3,7 @@ Loves personal fitness <br />
 Loves jazz and R&B <br />
 
 📫 Reach me: kienong2000@gmail.com<br />
-✍️ [medium.com/@kienong2000](medium.com/@kienong2000)<br />
+✍️ [medium.com/@kienong2000](medium.com/@kienong2000) <br />
 🌐 [owaikien.github.io](owaikien.github.io)
 
 <!---
